@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com)
 
-- Felt less confident in explaining certain concepts.
+- Didn't do as well as I hoped explaining certain concepts that I know but froze on.
 - Key Question: Difference between using an interface and an abstract class.
   - Answer:
     - Interfaces: Define a contract for classes to implement. Used when unrelated classes need to implement the same functionality.
