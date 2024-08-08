@@ -10,4 +10,6 @@ Led the migration of TIBCO BusinessWorks to .NET 6+ APIs, including configuring 
 
 ## Fast Dashboard
 
-Managed a team of five developers on a mergers and acquisitions application using Kubernetes, background processing with Hangfire, and in-memory queuing.
+**Implemented Solution:** Managed a team of five developers on a mergers and acquisitions application. Given our tight deadline, we utilized Kubernetes for orchestration, Hangfire for background processing, and leveraged in-memory queuing to meet our immediate needs.
+
+**Ideal Approach with More Time/Resources:** Ideally, had there been more time or if I remained on the team, we would have transitioned to a fully managed AWS ecosystem. This would involve replacing Hangfire with AWS Lambda for serverless background processing and substituting in-memory queuing with Amazon SQS or SNS for a more scalable and reliable queueing mechanism. This approach would not only align with cloud-native best practices but also offer better scalability and maintenance benefits in the long run.
