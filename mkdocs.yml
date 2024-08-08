@@ -1,0 +1,8 @@
+site_name: CapTech Interview Preparation
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Questions: questions.md
+  - Projects: projects.md
+  - Accomplishments: accomplishments.md
